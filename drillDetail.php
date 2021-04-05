@@ -113,15 +113,7 @@ require('head.php');
             </form>
           </div>
 
-          <div class="modal-width">
-          <div class="modal js-modal">
-            <div class="modal__bg js-modal-close"></div>
-            <div class="modal__content">
-              <p>第1目標達成</p>
-            <a class="js-modal-close" href="">閉じる</a>
-          </div>
-        </div>
-        </div>
+          
 
       </section>
     </div>
